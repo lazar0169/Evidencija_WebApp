@@ -1,0 +1,27 @@
+#pozadina
+{
+    background-color: 3D668E;
+    width: 100%;
+    height: 50px;
+}
+.navItem{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    height: 50px;
+}
+
+body {
+    background-color:F0F0F0;
+    min-width: 600px;
+}
+.navItem2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    height: 50px;
+}
