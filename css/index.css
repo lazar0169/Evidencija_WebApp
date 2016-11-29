@@ -1,61 +1,67 @@
-.red
-{
+.red {
     transition: all 0.7s ease;
     background-color: F0F0F0;
 }
+
 body {
-    background-color:F0F0F0;
-    //min-width: 700px;
+    background-color: F0F0F0;
 }
-.red:hover{
+
+.red:hover {
     background-color: B0B0B0;
 }
-.red{
+
+.red {
     cursor: pointer;
 }
-.delete:hover{
+
+.delete:hover {
     color: red;
 }
-.edit:hover{
+
+.edit:hover {
     color: greenyellow;
 }
-#addBtn{
+
+#addBtn {
     background-color: greenyellow;
     color: white;
     border-radius: 10px;
     font-size: 20px;
 }
-#plus:hover{
+
+#plus:hover {
     cursor: pointer;
 }
-#plus{
+
+#plus {
     position: relative;
     padding-top: 20%;
 }
 
-.center{
+.center {
     position: relative;
     text-align: center;
     top: 50%;
-    
 }
 
-.efekti{
+.efekti {
     text-shadow: 0px 0px 1px #000000;
 }
 
-.efekti2{
+.efekti2 {
     text-shadow: 0px 0px 1px #ffffff;
 }
 
-#caoo:hover{
+#caoo:hover {
     cursor: pointer;
 }
-#caoo{
+
+#caoo {
     position: relative;
     padding-top: 20%;
 }
 
-.tekst{
+.tekst {
     font-size: 24px;
 }
