@@ -1,11 +1,7 @@
 <?php
 session_start();
 session_destroy();
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */?>
+?>
 <html>
     <head>
         <link href="./../css/jquery-ui.min.css" rel="stylesheet">
@@ -16,13 +12,7 @@ session_destroy();
         <link rel="stylesheet" type="text/css" href="./../css/sweetalert.css">
        
     </head>
-    
-   
     <body>
-        
-        
-              
-        
         <div class="container center animated bounceInDown">
             <div class="row">
                 <img class="col-xs-11" src="./../css/images/logo.png" alt="Logo">
@@ -44,9 +34,6 @@ session_destroy();
                 </div>
             </div>
         </div>
-
-        
-
         <script src="./../js/sweetalert.min.js"></script>
         <script src="./../js/jquery-2.1.4.min.js"></script>
         <script src="./../js/bootstrap.min.js"></script>
